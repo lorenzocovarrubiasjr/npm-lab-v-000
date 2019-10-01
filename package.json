@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/lorenzocovarrubiasjr/npm-lab-v-000#readme",
   "dependencies": {
+    "learn-browser": "^0.1.24",
     "momentjs": "^2.0.0"
   }
 }
