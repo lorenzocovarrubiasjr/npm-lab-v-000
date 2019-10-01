@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lorenzocovarrubiasjr/npm-lab-v-000/issues"
   },
-  "homepage": "https://github.com/lorenzocovarrubiasjr/npm-lab-v-000#readme"
+  "homepage": "https://github.com/lorenzocovarrubiasjr/npm-lab-v-000#readme",
+  "dependencies": {
+    "momentjs": "^2.0.0"
+  }
 }
